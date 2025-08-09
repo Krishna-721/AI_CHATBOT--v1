@@ -2,7 +2,7 @@
 
 I built this in pycharm.
 There are a few error in this code and i will definitely work on them. At present I just started it, in future you might get to see a fully working chatbot with awesome visuals.
-Current issues are regarding main.py and the usage of the api keys (they are getting exhasted).
+Current issues are regarding main.py and the usage of the api keys (they are getting exhausted).
 
 # Snow - AI Voice Assistant
 
