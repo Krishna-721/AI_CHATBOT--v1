@@ -1,4 +1,4 @@
-# AI_CHATBOT--v1
+# CHATBOT (v1)
 
 I built this in pycharm.
 There are a few error in this code and i will definitely work on them. At present I just started it, in future you might get to see a fully working chatbot with awesome visuals.
